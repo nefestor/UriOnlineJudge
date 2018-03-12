@@ -7,4 +7,4 @@ var totalx = Math.pow((xy2[0]) - (xy1[0]), 2);
 var totaly = Math.pow((xy2[1]) - (xy1[1]), 2);
 var distancia = Math.sqrt((totalx + totaly).toFixed(4));
 
-console.log(distancia);
+console.log(`${distancia.toFixed(4)}`);
