@@ -10,8 +10,8 @@ Após isso execute o comando: node 'nomedoarquivo'.js
 
 No meu exemplo, meu arquivo está no desktop e se chama uri.js
 
-Abra o CMD
-CD Desktop
-node uri.js
-deve ser armazenado os inputs dentro de um txt (como especificado pelo uri).
-no meu caso armazeno no test.txt
+Abra o CMD;
+CD Desktop;
+node uri.js;
+deve ser armazenado os inputs dentro de um txt (como especificado pelo uri)
+no meu caso armazeno no test.txt.
